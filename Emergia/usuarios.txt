@@ -1,0 +1,8 @@
+rafael,ra@gmail.com,$2a$10$YnQiOFuaM7J54wZUqJ3HbeoA6qHhnb53EwPLtjIexM92ZewsGv/Ua
+rafael,ra@gmail.com,$2a$10$OWeGQtO0WOFet21l/cDUcuIi1/byaLkQBWkd0OYPibWBvPcZJptDe
+rafael,ra@gmail.com,$2a$10$DbXpzhAlNo.7BtlE4KZsquS4sY5Bu9BACnoTt3YyqjKAT4nfCOgxy
+rafael,ra@gmail.com,$2a$10$bnsulSCtQQR6giuGrBN/oerruoMT.NrpzsR5SEZjxfCl5VbDDCXNa
+rafael,ra@gmail.com,$2a$10$P63sclKJ5kcBLzzn9WFoWeLezdoNojfZ3qsq02oO6MIzuy1l6BIGy
+rafael,ra@gmail.com,$2a$10$9PW.ZZq57DPW0QW93w0nEe8NV7DK.GDTjNG0NgjHhXykzhNplplM6
+dado,dado@gmail.com,$2a$10$.lgamSvgHIn0a78cbeQx8etRhWp696zcuy9.YnCmk1rQ02fMJHmyW
+dados,dados@gmail.com,$2a$10$ydI1on3mRBbakWsvTBsPm.3EfsxGKC77b1CbvXXT0FNd1OhmYkuR6
