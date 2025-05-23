@@ -1,6 +1,6 @@
 # Projeto Emergía - UNIP
 
-Este projeto foi desenvolvido para a disciplina de sustentabilidade em servidores.
+Este projeto foi desenvolvido como nossa APS
 
 ## Funcionalidades principais
 
